@@ -1,0 +1,5 @@
+python-olefile source: file-without-copyright-information
+python-olefile source: no-debian-changes
+python-olefile source: source-contains-prebuilt-windows-binary
+python-olefile source: source-is-missing
+python-olefile source: source-package-encodes-python-version

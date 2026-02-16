@@ -1,0 +1,4 @@
+python3-olefile: copyright-without-copyright-notice
+python3-olefile: initial-upload-closes-no-bugs
+python3-olefile: no-manual-page
+python3-olefile: zero-byte-file-in-doc-directory
